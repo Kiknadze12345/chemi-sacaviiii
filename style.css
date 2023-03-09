@@ -1,0 +1,28 @@
+*{
+   box-sizing: border-box;
+}
+.box{
+    width: 400px;
+    height: 580px;
+    background-color:#FAFAFA;
+    margin-top: 600px;
+    margin-left: 1650px;
+}
+.img{
+    width: 159.24px;
+    height: 146.57px;
+    margin-top: 60px;
+    margin-left: 120px;
+}
+.h3 {
+   font-family: sans-serif;
+   margin-left: 120px;
+}
+.p{
+   font-family: sans-serif;
+   font-size: 13px;
+   text-align: center;
+   padding-left: 45px;
+   padding-right: 45px;
+   padding-top: 20px;
+}
